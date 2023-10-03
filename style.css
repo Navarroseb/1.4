@@ -1,0 +1,14 @@
+.icons{
+    display: flex;
+    justify-content: center;
+    
+}
+.singlepic-grid{
+    align-items: center;
+}
+.post{
+    border: 1px solid black;
+}
+.post-img{
+    margin-left: 35px;
+}
